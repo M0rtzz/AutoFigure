@@ -173,6 +173,8 @@ result = agent.generate_from_file(
 | `generation_model` | Model name | Provider default |
 | `generation_provider` | Provider: 'openrouter', 'bianxie', 'gemini' | 'openrouter' |
 
+Bianxie users can register at [bianxieai](https://bianxieai.com/autofigure). The Bianxie API uses the default base URL `https://api.bianxie.ai/v1`.
+
 ### Methodology Extraction Settings
 
 | Option | Description | Default |

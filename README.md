@@ -201,8 +201,10 @@ AutoFigure is highly configurable. You can set these in `Config()` or via enviro
 | Provider | Base URL | Recommended Text / SVG Model | Recommended Image Model |
 |----------|----------|------------------------------|-------------------------|
 | **OpenRouter** | `openrouter.ai/api/v1` | `google/gemini-3.1-pro-preview` | `google/gemini-3.1-flash-image-preview` |
-| **Bianxie** | `api.bianxie.ai/v1` | `gemini-3.1-pro-preview` | `gemini-3.1-flash-image-preview` |
+| **Bianxie** | `api.bianxie.ai/v1` ([bianxieai](https://bianxieai.com/autofigure)) | `gemini-3.1-pro-preview` | `gemini-3.1-flash-image-preview` |
 | **Google** | `generativelanguage...` | `gemini-3.1-pro-preview` | `gemini-3.1-flash-image-preview` |
+
+The Bianxie AI aggregate API provides mainland China-friendly access to AutoFigure's recommended Gemini models without requiring a foreign credit card. Register at [bianxieai](https://bianxieai.com/autofigure).
 
 ### Generation Settings
 
@@ -355,6 +357,14 @@ Repository metadata and usage guidance:
 - [CITATION.cff](./CITATION.cff)
 - [Citation and attribution guidance](./CITATION_AND_ATTRIBUTION.md)
 - [Name and logo usage](./TRADEMARK.md)
+
+## 🙏 Acknowledgments
+
+We thank the following sponsor for supporting this project:
+
+| Sponsor | Link | Support | Note |
+|---|---|---|---|
+| Bianxie AI Aggregate API | [https://api.bianxie.ai](https://bianxieai.com/autofigure) | Provides mainland China-friendly access to AutoFigure's recommended Gemini models | No foreign credit card required |
 
 This project is licensed under the MIT License - see `LICENSE` for details.
 Name and logo usage are covered separately in `TRADEMARK.md`.
