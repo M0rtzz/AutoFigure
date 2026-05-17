@@ -326,6 +326,7 @@ Scan the QR code to join our community. If the code is expired, please add WeCha
     <td><img src="img/lzwechat.jpg" width="200" alt="WeChat 2"/></td>
   </tr>
 </table>
+
 ---
 
 ## 📜 Citation & License
