@@ -10,6 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FigureBench-orange?style=for-the-badge)](https://huggingface.co/datasets/WestlakeNLP/FigureBench)
 [![Website](https://img.shields.io/badge/Website-deepscientist.cc-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepscientist.cc/)
+[![Demo](https://img.shields.io/badge/Demo-HyperAI-red?style=for-the-badge&logo=rocket&logoColor=white)](https://hyper.ai/notebooks/autofigure-llm-based-automatic-scientific-illustration-generation-system)
 
 <p align="center">
   <strong>From Text to Publication-Ready Diagrams</strong><br>
