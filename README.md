@@ -320,7 +320,8 @@ AutoFigure/
 ## 🤝 Community & Support
 
 **WeChat Discussion Group**  
-Scan the QR code to join our community. If the code is expired, please add WeChat ID `nauhcutnil` or contact `tuchuan@mail.hfut.edu.cn`.
+Scan the QR code to join our community. If the QR code has expired, please add WeChat ID `nauhcutnil` or contact `tuchuan@mail.hfut.edu.cn`. When sending a friend request, please use the format **"University/Company - Degree/Position - Name"** as your remark.
+
 <table>
   <tr>
     <td><img src="img/wechat11.jpg" width="200" alt="WeChat 1"/></td>
